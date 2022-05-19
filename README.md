@@ -7,4 +7,4 @@ Projeto criado para instruir os alunos do programa DevStart quanto a utilizaçã
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS, Bootstrap e Trello...
+Javascript, HTML, CSS, Bootstrap e Trello!
