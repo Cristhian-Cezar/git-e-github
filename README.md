@@ -94,3 +94,110 @@ mensagem de commit
 ```
 Exibe os registros de log do commit
 ```
+
+### git stash
+
+```
+Arquiva as alterações feitas na branch sem precisar commitar
+
+```
+
+### git stash list
+
+```
+Esse comando vai exibir uma lista dos stashes do seu repositório
+```
+
+### git stash pop 
+
+```
+o comando pop restaura os arquivos, mas exclui o stash aplicado
+```
+
+### git stash --include-untracked
+
+```
+Esse comando armazena arquivo não rastreados
+```
+
+### git branch 
+
+```
+Mostrará todas das Branches locais. 
+```
+
+### git checkout -b nome_da_branch
+
+```
+Cria e acesso um novo repositório com o nome especificado.
+```
+
+### git merge
+
+```
+É usado para mesclar Branches, unindo assim, dois ou mais 
+históricos de desenvolvimento
+```
+
+### git checkout
+
+```
+O comando git checkout permite navegar entre as branches
+que foram criadas
+```
+
+### git branch -d
+
+```
+Exclui uma ramificação
+```
+
+### git push 
+
+```
+O git push é usado para enviar os conteúdos do repositório
+local para o repositório remoto
+```
+
+### git push --set-upstream origin nome_da_branch
+
+```
+Usando para configurar as informações de rastreamento durante 
+o push
+```
+
+### git pull
+
+```
+É usando para baixar conteúdos do repositório remoto e 
+atualizar o repositório local para que ambos sejam
+iguais
+```
+
+### git clone
+
+```
+É usando para copiar um repositório existente em um novo diretório
+local
+```
+
+### git revert
+
+```
+Reverter alguns commites existentes
+```
+
+### git revert --abort
+
+```
+Cancela a ação de reverter
+```
+
+### git remote -v
+
+```
+Mostra URLs de repositórios remotos ao listar suas conexões
+remotas atuais. Por padrão, listar repositórios remotos
+mostra apenas seus nomes curtos
+```
+
